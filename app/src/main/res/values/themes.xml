@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyCustomTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+    </style>
+
+    <style name="Theme.Best" parent="Theme.Design.NoActionBar">
+    </style>
+
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DynamicColors.Dark.NoActionBar">
+    </style>
+
+
+
+</resources>
